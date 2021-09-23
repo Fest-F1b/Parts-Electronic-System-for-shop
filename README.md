@@ -1,2 +1,4 @@
-# Parts-Electronic-System-for-shop
-This is a tkinter based system for knowing parts or items within a the shop or retail
+# Computer parts Desktop App
+A tkinter desktop Application written in Python and SQL, this an inspiration project from Brad Traversy youtube 
+tutorials, I added more functionalities to the application which include the CRUD for database data, A very UI for small tkinter applications.
+This craft is one my first project as a beginner in python programming language.
